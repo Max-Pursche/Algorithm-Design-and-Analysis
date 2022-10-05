@@ -1,0 +1,4 @@
+This is a showcase of the Depth First Search algorithm.
+I wrote this algorithm in my Algorithm Design and Analysis class,
+I received starter code from my professor and some test cases.
+The code that I wrote is inside of Graph.java, the two functions DFS() and findConnectedComponents().

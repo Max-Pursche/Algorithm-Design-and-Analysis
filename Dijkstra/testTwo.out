@@ -1,0 +1,60 @@
+8 -> 1: 22
+8 -> 2: 64
+8 -> 3: 23
+8 -> 5: 52
+found a node 1: distance is 22
+8 -> 2: 64
+1 -> 2: 63
+8 -> 3: 23
+8 -> 5: 52
+found a node 3: distance is 23
+8 -> 2: 64
+1 -> 2: 63
+3 -> 2: 62
+3 -> 4: 87
+8 -> 5: 52
+3 -> 6: 65
+found a node 5: distance is 52
+8 -> 2: 64
+1 -> 2: 63
+3 -> 2: 62
+3 -> 4: 87
+3 -> 6: 65
+5 -> 6: 89
+5 -> 7: 178
+found a node 2: distance is 62
+2 -> 4: 98
+3 -> 4: 87
+3 -> 6: 65
+5 -> 6: 89
+5 -> 7: 178
+2 -> 9: 192
+found a node 6: distance is 65
+2 -> 4: 98
+3 -> 4: 87
+6 -> 4: 86
+5 -> 7: 178
+6 -> 7: 108
+2 -> 9: 192
+6 -> 9: 197
+found a node 4: distance is 86
+5 -> 7: 178
+6 -> 7: 108
+2 -> 9: 192
+4 -> 9: 160
+6 -> 9: 197
+found a node 7: distance is 108
+2 -> 9: 192
+4 -> 9: 160
+6 -> 9: 197
+7 -> 9: 160
+found a node 9: distance is 160
+distance from node #8 to node #1 = 22
+distance from node #8 to node #2 = 62
+distance from node #8 to node #3 = 23
+distance from node #8 to node #4 = 86
+distance from node #8 to node #5 = 52
+distance from node #8 to node #6 = 65
+distance from node #8 to node #7 = 108
+distance from node #8 to node #8 = 0
+distance from node #8 to node #9 = 160
